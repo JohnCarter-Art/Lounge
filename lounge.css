@@ -1,21 +1,13 @@
 body {
-    font-family: sans-serif;
-}
-p {
-    color: maroon;
+  font-size: small;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
   }
   h1, h2 {
-    color: gray;
+  color: #007e7e;
   }
   h1 {
-    border-bottom: 1px solid black;
+  font-size: 150%;
   }
-p.greentea {
-    color: green;
-}
-p.raspberry {
-    color: blue;
-}
-p.blueberry {
-    color:purple
-}
+  h2 {
+  font-size: 130%;
+  }
